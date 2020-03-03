@@ -1,0 +1,227 @@
+2020-03-02 16:05:33,537 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 16:05:35,411 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 16:05:42,346 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 16:07:45,530 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 16:07:46,803 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 16:07:51,828 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 16:09:16,060 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 16:09:17,270 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 16:09:21,458 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 16:09:21,753 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 16:09:34,734 - nonCommerce -INFO - **** Verifying page Title ****
+2020-03-02 16:09:36,759 - nonCommerce -INFO - **** Clicking on customer menu ****
+2020-03-02 16:09:38,949 - nonCommerce -INFO - **** Clicking on customer menu item ****
+2020-03-02 16:09:59,959 - nonCommerce -INFO - **** Closing Browser ****
+2020-03-02 16:15:23,014 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 16:15:24,267 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 16:15:27,958 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 16:15:28,296 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 16:15:39,143 - nonCommerce -INFO - **** Verifying page Title ****
+2020-03-02 16:15:41,195 - nonCommerce -INFO - **** Clicking on customer menu ****
+2020-03-02 16:15:43,364 - nonCommerce -INFO - **** Clicking on customer menu item ****
+2020-03-02 16:15:45,457 - nonCommerce -INFO - **** Entering email Address ****
+2020-03-02 16:15:45,840 - nonCommerce -INFO - **** Clicking on search Button ****
+2020-03-02 16:15:45,952 - nonCommerce -INFO - **** Verifying result by searching email in result ****
+2020-03-02 16:15:46,810 - nonCommerce -INFO - **** Closing Browser ****
+2020-03-02 16:15:50,187 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 16:15:51,363 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 16:15:53,430 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 16:15:53,814 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 16:16:02,532 - nonCommerce -INFO - **** Verifying page Title ****
+2020-03-02 16:16:04,547 - nonCommerce -INFO - **** Clicking on customer menu ****
+2020-03-02 16:16:06,823 - nonCommerce -INFO - **** Clicking on customer menu item ****
+2020-03-02 16:16:09,803 - nonCommerce -INFO - **** Entering first name ****
+2020-03-02 16:16:10,002 - nonCommerce -INFO - **** Entering last name ****
+2020-03-02 16:16:10,227 - nonCommerce -INFO - **** Clicking on search Button ****
+2020-03-02 16:16:10,396 - nonCommerce -INFO - **** Verifying result by finding first and last name in result ****
+2020-03-02 16:16:11,162 - nonCommerce -INFO - **** Closing Browser ****
+2020-03-02 16:16:14,488 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 16:16:15,712 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 16:16:18,582 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 16:16:18,858 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 16:16:29,806 - nonCommerce -INFO - **** Verifying page Title ****
+2020-03-02 16:16:31,818 - nonCommerce -INFO - **** Clicking on customer menu ****
+2020-03-02 16:16:33,999 - nonCommerce -INFO - **** Clicking on customer menu item ****
+2020-03-02 16:16:39,122 - nonCommerce -INFO - **** Clicking on add new button ****
+2020-03-02 16:16:44,463 - nonCommerce -INFO - **** Viewing add new customer page ****
+2020-03-02 16:16:46,484 - nonCommerce -INFO - **** Entering Customer information ****
+2020-03-02 16:16:47,939 - nonCommerce -INFO - **** Clicking on save button ****
+2020-03-02 16:16:52,357 - nonCommerce -INFO - **** Viewing confirmation message whether data added or not ****
+2020-03-02 16:16:52,414 - nonCommerce -INFO - **** Verify passed ****
+2020-03-02 16:16:52,416 - nonCommerce -INFO - **** Closing Browser ****
+2020-03-02 16:16:55,978 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 16:16:57,139 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 16:17:09,109 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 16:17:09,470 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 16:17:18,302 - nonCommerce -INFO - **** Loggin passed ****
+2020-03-02 16:17:18,308 - nonCommerce -INFO - **** CLicking on logout Button ****
+2020-03-02 16:17:21,511 - nonCommerce -INFO - **** Loggin passed ****
+2020-03-02 16:17:25,668 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 16:17:26,805 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 16:17:30,555 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 16:17:30,878 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 16:17:36,912 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 16:17:38,067 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 16:17:41,433 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 16:17:41,752 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 17:03:09,402 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 17:03:10,694 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 17:03:14,460 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 17:03:14,734 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 17:03:33,802 - nonCommerce -INFO - **** Loggin passed ****
+2020-03-02 17:03:33,804 - nonCommerce -INFO - **** CLicking on logout Button ****
+2020-03-02 17:03:38,449 - nonCommerce -INFO - **** Loggin passed ****
+2020-03-02 17:03:38,459 - nonCommerce -INFO - **** Closing Browser ****
+2020-03-02 17:03:41,636 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 17:03:42,800 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 17:03:46,826 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 17:03:47,080 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 17:03:50,817 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 17:03:52,007 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 17:03:56,795 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 17:03:57,067 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 17:04:38,920 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 17:04:40,097 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 17:04:42,069 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 17:04:42,332 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 17:04:52,636 - nonCommerce -INFO - **** Loggin passed ****
+2020-03-02 17:04:52,637 - nonCommerce -INFO - **** CLicking on logout Button ****
+2020-03-02 17:04:55,882 - nonCommerce -INFO - **** Loggin passed ****
+2020-03-02 17:04:55,890 - nonCommerce -INFO - **** Closing Browser ****
+2020-03-02 17:04:59,117 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 17:05:00,306 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 17:05:03,323 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 17:05:03,589 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 17:05:07,266 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 17:05:08,414 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 17:05:10,047 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 17:05:10,323 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 17:07:14,149 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 17:07:15,307 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 17:07:17,985 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 17:07:18,270 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 17:07:29,462 - nonCommerce -INFO - **** Verifying page Title ****
+2020-03-02 17:07:31,546 - nonCommerce -INFO - **** Clicking on customer menu ****
+2020-03-02 17:07:33,671 - nonCommerce -INFO - **** Clicking on customer menu item ****
+2020-03-02 17:07:38,620 - nonCommerce -INFO - **** Clicking on add new button ****
+2020-03-02 17:07:42,503 - nonCommerce -INFO - **** Viewing add new customer page ****
+2020-03-02 17:07:44,512 - nonCommerce -INFO - **** Entering Customer information ****
+2020-03-02 17:07:45,922 - nonCommerce -INFO - **** Clicking on save button ****
+2020-03-02 17:07:51,950 - nonCommerce -INFO - **** Viewing confirmation message whether data added or not ****
+2020-03-02 17:07:51,996 - nonCommerce -INFO - **** Verify passed ****
+2020-03-02 17:07:51,997 - nonCommerce -INFO - **** Closing Browser ****
+2020-03-02 17:09:17,148 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 17:09:17,179 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 17:09:22,896 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 17:09:23,396 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 17:09:36,703 - nonCommerce -INFO - **** Verifying page Title ****
+2020-03-02 17:09:38,713 - nonCommerce -INFO - **** Clicking on customer menu ****
+2020-03-02 17:09:40,977 - nonCommerce -INFO - **** Clicking on customer menu item ****
+2020-03-02 17:09:45,441 - nonCommerce -INFO - **** Clicking on add new button ****
+2020-03-02 17:09:49,307 - nonCommerce -INFO - **** Viewing add new customer page ****
+2020-03-02 17:09:51,313 - nonCommerce -INFO - **** Entering Customer information ****
+2020-03-02 17:09:52,992 - nonCommerce -INFO - **** Clicking on save button ****
+2020-03-02 17:09:57,814 - nonCommerce -INFO - **** Viewing confirmation message whether data added or not ****
+2020-03-02 17:09:57,941 - nonCommerce -INFO - **** Verify passed ****
+2020-03-02 17:09:57,942 - nonCommerce -INFO - **** Closing Browser ****
+2020-03-02 17:21:03,645 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 17:21:03,668 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 17:21:08,049 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 17:21:08,177 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 17:21:22,033 - nonCommerce -INFO - **** Verifying page Title ****
+2020-03-02 17:21:24,056 - nonCommerce -INFO - **** Clicking on customer menu ****
+2020-03-02 17:21:26,327 - nonCommerce -INFO - **** Clicking on customer menu item ****
+2020-03-02 17:21:30,326 - nonCommerce -INFO - **** Entering email Address ****
+2020-03-02 17:21:30,532 - nonCommerce -INFO - **** Clicking on search Button ****
+2020-03-02 17:21:30,800 - nonCommerce -INFO - **** Verifying result by searching email in result ****
+2020-03-02 17:26:20,458 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 17:26:20,515 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 17:26:23,527 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 17:26:23,687 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 17:26:33,327 - nonCommerce -INFO - **** Verifying page Title ****
+2020-03-02 17:26:35,336 - nonCommerce -INFO - **** Clicking on customer menu ****
+2020-03-02 17:26:37,649 - nonCommerce -INFO - **** Clicking on customer menu item ****
+2020-03-02 17:26:41,272 - nonCommerce -INFO - **** Entering email Address ****
+2020-03-02 17:26:41,512 - nonCommerce -INFO - **** Clicking on search Button ****
+2020-03-02 17:26:41,793 - nonCommerce -INFO - **** Verifying result by searching email in result ****
+2020-03-02 17:28:54,405 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 17:28:55,576 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 17:29:00,191 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 17:29:00,607 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 17:29:13,632 - nonCommerce -INFO - **** Verifying page Title ****
+2020-03-02 17:29:15,644 - nonCommerce -INFO - **** Clicking on customer menu ****
+2020-03-02 17:29:17,743 - nonCommerce -INFO - **** Clicking on customer menu item ****
+2020-03-02 17:29:22,504 - nonCommerce -INFO - **** Entering email Address ****
+2020-03-02 17:29:22,881 - nonCommerce -INFO - **** Clicking on search Button ****
+2020-03-02 17:29:22,988 - nonCommerce -INFO - **** Verifying result by searching email in result ****
+2020-03-02 17:33:03,313 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 17:33:04,515 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 17:33:09,637 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 17:33:09,895 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 17:33:23,364 - nonCommerce -INFO - **** Verifying page Title ****
+2020-03-02 17:33:25,383 - nonCommerce -INFO - **** Clicking on customer menu ****
+2020-03-02 17:33:27,552 - nonCommerce -INFO - **** Clicking on customer menu item ****
+2020-03-02 17:33:30,897 - nonCommerce -INFO - **** Entering email Address ****
+2020-03-02 17:33:31,267 - nonCommerce -INFO - **** Clicking on search Button ****
+2020-03-02 17:33:31,390 - nonCommerce -INFO - **** Verifying result by searching email in result ****
+2020-03-02 17:47:03,002 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 17:47:04,204 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 17:47:07,000 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 17:47:07,256 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 17:47:20,539 - nonCommerce -INFO - **** Verifying page Title ****
+2020-03-02 17:47:22,553 - nonCommerce -INFO - **** Clicking on customer menu ****
+2020-03-02 17:47:24,697 - nonCommerce -INFO - **** Clicking on customer menu item ****
+2020-03-02 17:47:27,302 - nonCommerce -INFO - **** Entering email Address ****
+2020-03-02 17:47:27,633 - nonCommerce -INFO - **** Clicking on search Button ****
+2020-03-02 17:47:27,732 - nonCommerce -INFO - **** Verifying result by searching email in result ****
+2020-03-02 17:49:17,183 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 17:49:18,361 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 17:49:21,207 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 17:49:21,465 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 17:49:36,887 - nonCommerce -INFO - **** Verifying page Title ****
+2020-03-02 17:49:38,907 - nonCommerce -INFO - **** Clicking on customer menu ****
+2020-03-02 17:49:41,025 - nonCommerce -INFO - **** Clicking on customer menu item ****
+2020-03-02 17:49:42,751 - nonCommerce -INFO - **** Entering email Address ****
+2020-03-02 17:49:43,093 - nonCommerce -INFO - **** Clicking on search Button ****
+2020-03-02 17:49:43,279 - nonCommerce -INFO - **** Verifying result by searching email in result ****
+2020-03-02 17:49:45,828 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 17:49:47,032 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 17:49:52,376 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 17:49:52,638 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 17:50:09,769 - nonCommerce -INFO - **** Verifying page Title ****
+2020-03-02 17:50:11,778 - nonCommerce -INFO - **** Clicking on customer menu ****
+2020-03-02 17:50:13,918 - nonCommerce -INFO - **** Clicking on customer menu item ****
+2020-03-02 17:50:17,479 - nonCommerce -INFO - **** Clicking on add new button ****
+2020-03-02 17:50:22,556 - nonCommerce -INFO - **** Viewing add new customer page ****
+2020-03-02 17:50:24,577 - nonCommerce -INFO - **** Entering Customer information ****
+2020-03-02 17:50:25,866 - nonCommerce -INFO - **** Clicking on save button ****
+2020-03-02 17:50:31,039 - nonCommerce -INFO - **** Viewing confirmation message whether data added or not ****
+2020-03-02 17:50:31,099 - nonCommerce -INFO - **** Verify passed ****
+2020-03-02 17:50:31,100 - nonCommerce -INFO - **** Closing Browser ****
+2020-03-02 17:50:34,490 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 17:50:35,627 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 17:50:38,741 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 17:50:39,009 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 17:50:52,547 - nonCommerce -INFO - **** Loggin passed ****
+2020-03-02 17:50:52,548 - nonCommerce -INFO - **** CLicking on logout Button ****
+2020-03-02 17:50:55,769 - nonCommerce -INFO - **** Loggin passed ****
+2020-03-02 17:50:55,775 - nonCommerce -INFO - **** Closing Browser ****
+2020-03-02 18:22:19,035 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 18:22:20,193 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 18:22:23,303 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 18:22:23,606 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 18:22:32,371 - nonCommerce -INFO - **** Verifying page Title ****
+2020-03-02 18:22:34,396 - nonCommerce -INFO - **** Clicking on customer menu ****
+2020-03-02 18:22:36,528 - nonCommerce -INFO - **** Clicking on customer menu item ****
+2020-03-02 18:22:39,879 - nonCommerce -INFO - **** Entering first name ****
+2020-03-02 18:22:40,128 - nonCommerce -INFO - **** Entering last name ****
+2020-03-02 18:22:40,403 - nonCommerce -INFO - **** Clicking on search Button ****
+2020-03-02 18:22:40,581 - nonCommerce -INFO - **** Verifying result by finding first and last name in result ****
+2020-03-02 18:22:45,673 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 18:22:46,811 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 18:22:50,565 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 18:22:50,903 - nonCommerce -INFO - ****Clicking on logging Button****
+2020-03-02 18:22:57,370 - nonCommerce -INFO - ****Launching Browser****
+2020-03-02 18:22:58,540 - nonCommerce -INFO - ****Opening browser****
+2020-03-02 18:23:00,937 - nonCommerce -INFO - ****Entering logging details****
+2020-03-02 18:23:01,252 - nonCommerce -INFO - ****Clicking on logging Button****
